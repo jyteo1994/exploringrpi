@@ -1,2 +1,0 @@
-#!/bin/bash
-g++ jsonNodeMCU.cpp libjsoncpp.a network/SocketClient.cpp -o jsonNodeMCU
